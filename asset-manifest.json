@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Draft-Editor/static/css/main.c0747ed0.css",
+    "main.js": "/Draft-Editor/static/js/main.25c3d72f.js",
+    "static/js/787.c047bb78.chunk.js": "/Draft-Editor/static/js/787.c047bb78.chunk.js",
+    "index.html": "/Draft-Editor/index.html",
+    "main.c0747ed0.css.map": "/Draft-Editor/static/css/main.c0747ed0.css.map",
+    "main.25c3d72f.js.map": "/Draft-Editor/static/js/main.25c3d72f.js.map",
+    "787.c047bb78.chunk.js.map": "/Draft-Editor/static/js/787.c047bb78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0747ed0.css",
+    "static/js/main.25c3d72f.js"
+  ]
+}
